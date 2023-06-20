@@ -111,7 +111,7 @@ this.getall();
   render(){
     return <div>
       <h1 className="App">hello react app git add </h1>
-      <h1 className="App">hello mohan  wait s</h1>
+      <h1 className="App">babu good boy</h1>
       
     <form autoComplete="off" onSubmit={this.create}  method="post"  >
            name:<input type="text"   onChange={this.infochange}
