@@ -118,6 +118,7 @@ this.getall();
             name="Name"
             value={this.state.Name}
             />
+            
            age:<input type="text"   onChange={this.infochange}
            name="Age"
            value={this.state.Age}
